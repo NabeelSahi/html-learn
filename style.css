@@ -7,7 +7,7 @@
 }
 
 .jumbotron {
-  background: url(./bg.jpg) no-repeat center center;
+  background: url(http://img0.gtsstatic.com/wallpapers/ccde889625164ec3db1640c366a38857_large.jpeg) no-repeat center center;
   background-size: cover;
   height: 500px;
 }
@@ -26,6 +26,9 @@
 
 .learn-more {
   background-color: #f7f7f7;
+  background: url(http://img0.gtsstatic.com/wallpapers/ccde889625164ec3db1640c366a38857_large.jpeg);
+  background-size: cover;
+  height: 1040px;
 }
 
 .learn-more h3 {
@@ -38,11 +41,9 @@
   color: #00b0ff;
 }
 .nav li {
-  display: inline;
+  display: inline-table;
 }  
 .jumbotron .container {
 position: relative;
 top: 100px;
 }
-
-
