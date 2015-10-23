@@ -26,18 +26,12 @@
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(./bg.jpg) no-repeat center center;
-  background-size: cover;
-  height: 500px;
 }
 
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
-  background: url("chrome://global/skin/media/imagedoc-darknoise.png") no-repeat center center;
-  background-size: center;
-  height: 500px;
 }
 
 .learn-more a {
