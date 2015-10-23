@@ -7,7 +7,7 @@
 }
 
 .jumbotron {
-  background: url(http://img0.gtsstatic.com/wallpapers/ccde889625164ec3db1640c366a38857_large.jpeg) no-repeat center center;
+  background: url(http://i.stack.imgur.com/p9mUO.jpg); no-repeat center center;
   background-size: cover;
   height: 500px;
 }
@@ -26,9 +26,9 @@
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(http://img0.gtsstatic.com/wallpapers/ccde889625164ec3db1640c366a38857_large.jpeg);
+  background: url(http://i.stack.imgur.com/jGlzr.png);
   background-size: cover;
-  height: 1040px;
+  height: 1250px;
 }
 
 .learn-more h3 {
