@@ -7,7 +7,7 @@
 }
 
 .jumbotron {
-  background: url(./bg.jpg) no-repeat center center;
+  background: url(http://i.stack.imgur.com/p9mUO.jpg); no-repeat center center;
   background-size: cover;
   height: 500px;
 }
@@ -26,29 +26,24 @@
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(./bg.jpg) no-repeat center center;
+  background: url(http://i.stack.imgur.com/jGlzr.png);
   background-size: cover;
-  height: 500px;
+  height: 1250px;
 }
 
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
-  background: url("chrome://global/skin/media/imagedoc-darknoise.png") no-repeat center center;
-  background-size: center;
-  height: 500px;
 }
 
 .learn-more a {
   color: #00b0ff;
 }
 .nav li {
-  display: inline;
+  display: inline-table;
 }  
 .jumbotron .container {
 position: relative;
 top: 100px;
 }
-
-
