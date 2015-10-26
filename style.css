@@ -20,7 +20,7 @@
   background-color: #f7f7f7;
   background: url(http://i.stack.imgur.com/jGlzr.png);
   background-size: cover;
-  height: 2090px;
+  height: 2460px;
 }
 
 .learn-more h3 {
@@ -28,6 +28,14 @@
   font-size: 18px;
   font-weight: bold;
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}    
 
 .learn-more a {
   color: #00b0ff;
@@ -77,6 +85,6 @@ top: 100px;
 
 .floating_image {
   float: left;
-  width: 500px;
+  width: 600px;
   height: 400;
 }
