@@ -1,11 +1,11 @@
 .jumbotron {
-  background: url(http://i.stack.imgur.com/p9mUO.jpg); no-repeat center center;
+  background: url(http://www.mozilla.org/images/template/screen/bg_body_0.jpg); no-repeat center center;
   background-size: cover;
   height: 500px;
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: #000000;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -13,14 +13,14 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: #000000;
 }
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(http://i.stack.imgur.com/jGlzr.png);
+  background: url(http://www.mozilla.org/images/template/screen/bg_body_0.jpg);
   background-size: cover;
-  height: 2460px;
+  height: 4500px;
 }
 
 .learn-more h3 {
