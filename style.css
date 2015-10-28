@@ -20,7 +20,7 @@
   background-color: #f7f7f7;
   background: url(http://www.mozilla.org/images/template/screen/bg_body_0.jpg);
   background-size: cover;
-  height: 4500px;
+  height: 5260px;
 }
 
 .learn-more h3 {
@@ -35,7 +35,7 @@ table, th, td {
 th, td {
     padding: 5px;
     text-align: left;
-}    
+}
 
 .learn-more a {
   color: #00b0ff;
