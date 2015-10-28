@@ -1,19 +1,12 @@
-.nav a {
-  color: #5a5a5a;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
-}
 
 .jumbotron {
-  background: url(http://i.stack.imgur.com/p9mUO.jpg); no-repeat center center;
+  background: url(http://www.mozilla.org/images/template/screen/bg_body_0.jpg); no-repeat center center;
   background-size: cover;
   height: 500px;
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: #000000;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -21,14 +14,14 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: #000000;
 }
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(http://i.stack.imgur.com/jGlzr.png);
+  background: url(http://www.mozilla.org/images/template/screen/bg_body_0.jpg);
   background-size: cover;
-  height: 1250px;
+  height: 2500px;
 }
 
 .learn-more h3 {
@@ -36,14 +29,84 @@
   font-size: 18px;
   font-weight: bold;
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
 
 .learn-more a {
   color: #00b0ff;
 }
+
+.nav ul {
+  padding: 0;
+  display: table;
+  table-layout: fixed;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .nav li {
-  display: inline-table;
-}  
+  display: table-cell;
+}
+
+.nav li a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
 .jumbotron .container {
 position: relative;
 top: 100px;
+}
+
+.logo {
+  display: block;
+  margin: 50px auto;
+}
+
+.image_row {
+  display: block;
+}
+
+.image_row:before, .image_row:after {
+  content: " ";
+  display: block;
+  width: 100%;
+  height: 1px;
+  clear: both;
+}
+
+.floating_image {
+  float: left;
+  width: 600px;
+  height: 400;
+}
+
+
+
+
+/* FORMS */
+
+.form-wrapper {
+  padding: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: #fff;
+  width:600px;
+}
+
+.control-wrapper {
+  margin:15px;
+}
+
+.control-wrapper input, .control-wrapper label {
+  display:block;
 }
