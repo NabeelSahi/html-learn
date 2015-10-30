@@ -4,18 +4,19 @@ body {
 }
 
 .jumbotron {
-  background: url(http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg); no-repeat center center;
   background-size: cover;
-  height: 500px;
 }
 
 .jumbotron h1 {
   color: #000000;
   font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
 }
-
+p,h1,h2,h3,ul { 
+  font-family: 'Open Sans', sans-serif;  
+}
 .jumbotron p {
   font-size: 20px;
   color: #000000;
@@ -23,9 +24,14 @@ body {
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg);
   background-size: cover;
-  height: 1650px;
+  padding:30px;
+}
+
+.placeholder-30 {
+  height:30px;
+  display: block;
+  clear: both;
 }
 
 .learn-more h3 {
@@ -66,11 +72,6 @@ th, td {
   text-transform: uppercase;
 }
 
-.jumbotron .container {
-position: relative;
-top: 100px;
-}
-
 .logo {
   display: block;
   margin: 50px auto;
@@ -106,7 +107,9 @@ top: 100px;
   background-color: #fff;
   width:600px;
 }
-
+h1 { 
+  font-family: 'Oswald', sans-serif;
+}
 .control-wrapper {
   margin:15px;
 }
