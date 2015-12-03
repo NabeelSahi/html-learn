@@ -4,6 +4,7 @@ body {
 }
 
 .jumbotron {
+  background: url(http://static.tumblr.com/5uvtpxx/Dzlmplaee/light__4_.png); no-repeat center center;
   background-size: cover;
 }
 
@@ -24,6 +25,7 @@ p,h1,h2,h3,ul {
 
 .learn-more {
   background-color: #f7f7f7;
+  background: url(http://static.tumblr.com/5uvtpxx/Dzlmplaee/light__4_.png); no-repeat center center;
   background-size: cover;
   padding:30px;
 }
@@ -113,7 +115,6 @@ h1 {
 .control-wrapper {
   margin:15px;
 }
-
 .control-wrapper input, .control-wrapper label {
   display:block;
-}
+} 
