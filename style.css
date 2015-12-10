@@ -1,6 +1,6 @@
 body {
-    background: url(http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg); no-repeat center center;
-    background-size: cover;
+  background: url(http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg); no-repeat center center;
+  background-size: cover;
 }
 
 .jumbotron {
@@ -28,6 +28,7 @@ p,h1,h2,h3,ul {
   background: url(http://static.tumblr.com/5uvtpxx/Dzlmplaee/light__4_.png); no-repeat center center;
   background-size: cover;
   padding:30px;
+
 }
 
 .placeholder-30 {
@@ -42,12 +43,12 @@ p,h1,h2,h3,ul {
   font-weight: bold;
 }
 table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 th, td {
-    padding: 5px;
-    text-align: left;
+  padding: 5px;
+  text-align: left;
 }
 
 .learn-more a {
@@ -108,6 +109,9 @@ th, td {
   margin-top: 30px;
   background-color: #fff;
   width:600px;
+  background: url(http://2.bp.blogspot.com/-I-wJ9su_jZQ/TV3uN2iDAJI/AAAAAAAABxU/a5lfxdkTl14/s1600/balloon.bg.png); no-repeat center center;
+  background-size: cover;
+  padding: 10px;
 }
 h1 { 
   font-family: 'Oswald', sans-serif;
