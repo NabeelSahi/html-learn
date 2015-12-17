@@ -2,11 +2,10 @@ body {
   background: url(http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg); no-repeat center center;
   background-size: cover;
 }
-
 .jumbotron {
-  background: url(http://static.tumblr.com/5uvtpxx/Dzlmplaee/light__4_.png); no-repeat center center;
-  background-size: cover;
+  background: url(http://www.planwallpaper.com/static/images/518164-backgrounds.jpg); no-repeat center center;
 }
+
 
 .jumbotron h1 {
   color: #000000;
@@ -25,7 +24,7 @@ p,h1,h2,h3,ul {
 
 .learn-more {
   background-color: #f7f7f7;
-  background: url(http://static.tumblr.com/5uvtpxx/Dzlmplaee/light__4_.png); no-repeat center center;
+  background: url(http://www.planwallpaper.com/static/images/518164-backgrounds.jpg); no-repeat center center;
   background-size: cover;
   padding:30px;
 
@@ -109,7 +108,7 @@ th, td {
   margin-top: 30px;
   background-color: #fff;
   width:600px;
-  background: url(http://2.bp.blogspot.com/-I-wJ9su_jZQ/TV3uN2iDAJI/AAAAAAAABxU/a5lfxdkTl14/s1600/balloon.bg.png); no-repeat center center;
+  background: url(http://www.freeppt.net/background/bright-powerpoint-backgrounds-for-powerpoint.jpg); no-repeat center center;
   background-size: cover;
   padding: 10px;
 }
@@ -121,4 +120,4 @@ h1 {
 }
 .control-wrapper input, .control-wrapper label {
   display:block;
-} 
+}
