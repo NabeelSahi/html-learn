@@ -6,7 +6,6 @@ body {
   background: url(http://www.planwallpaper.com/static/images/518164-backgrounds.jpg); no-repeat center center;
 }
 
-
 .jumbotron h1 {
   color: #000000;
   font-size: 48px;  
@@ -35,7 +34,6 @@ p,h1,h2,h3,ul {
   display: block;
   clear: both;
 }
-
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
@@ -60,6 +58,7 @@ th, td {
   table-layout: fixed;
   max-width: 900px;
   margin: 0 auto;
+
 }
 
 .nav li {
