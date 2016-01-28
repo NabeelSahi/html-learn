@@ -97,8 +97,9 @@ th, td {
 } 
 
 @import url(http://fonts.googleapis.com/css?family=Varela+Round);
-
-html, body { background: #333 url("http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg"); }
+html, body { background: #333 url("http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg") ;no-repeat center center;
+background-size: cover;
+}
 
 .slides {
   padding: 0;
