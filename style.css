@@ -20,12 +20,25 @@ p,h1,h2,h3,ul {
   font-size: 20px;
   color: #000000;
 }
+.header {
+  color: #000000;
+  font-size: 20;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  padding: 30px;
+
+}
+.header {
+  background: url(http://www.planwallpaper.com/static/images/518164-backgrounds.jpg); no-repeat center center;
+  background-color: #f7f7f7;
+  background-size: cover;
+}
 
 .learn-more {
   background-color: #f7f7f7;
   background: url(http://www.planwallpaper.com/static/images/518164-backgrounds.jpg); no-repeat center center;
   background-size: cover;
-  padding:30px;
+  padding: 30px;
 
 }
 
