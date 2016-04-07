@@ -233,6 +233,7 @@ input#img-4:checked ~ .nav-dots label#img-dot-4,{
   width:600px;
   background: url(http://www.planwallpaper.com/static/images/518164-backgrounds.jpg); no-repeat center center;
   background-size: cover;
+  box-sizing: border box;
   padding: 10px;
 }
 h1 { 
